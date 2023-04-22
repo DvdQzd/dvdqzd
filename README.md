@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvdqzd" alt="dvdqzd" /></a> </p>
 
-- 🔭 I’m currently working on **Perficient**
+- 🔭 I’m currently working at **Perficient**
 
 - 🌱 I’m currently learning **AWS and Unreal Engine 5**
 
