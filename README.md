@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Perficient**
 
-- 🌱 I’m currently learning **AWS and Unreal Engine 5**
+- 🌱 I’m currently learning **Java and Unreal Engine 5**
 
 - 📫 How to reach me **david.quezada.m@gmail.com**
 
