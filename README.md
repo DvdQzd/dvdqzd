@@ -2,7 +2,7 @@
 <h3 align="center">Yet another software developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working at Perficient<br>🌱 I’m currently learning Java and Unreal Engine 5<br>📫 How to reach me david.quezada.m@gmail.com
+🔭 I’m currently working at SoftServe<br>🌱 I’m currently learning Java and Unreal Engine 5<br>📫 How to reach me david.quezada.m@gmail.com
 
 
 ## 🌐 Socials:
